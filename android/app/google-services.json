@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "578768009045",
+    "project_id": "gift-c203a",
+    "storage_bucket": "gift-c203a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578768009045:android:a72ee0717df9deb397e1dc",
+        "android_client_info": {
+          "package_name": "com.example.gift"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQA5h-q_gxc69WyqYC87uLeYJAk2OOZko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
